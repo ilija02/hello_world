@@ -11,12 +11,7 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
 1. Item 3
    1. Item 3a
    1. Item 3b
-   
-2. Test 1
-2. Test 2
-2. Test 3
-   2. Test 3a
-   2. Test 3b
+      1. Test
    
    
  - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
